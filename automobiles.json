@@ -1,0 +1,45 @@
+{
+    "automobiles": [
+      {
+        "id": 1,
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2022,
+        "color": "Silver",
+        "price": 25000
+      },
+      {
+        "id": 2,
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2021,
+        "color": "Blue",
+        "price": 22000
+      },
+      {
+        "id": 3,
+        "make": "Ford",
+        "model": "Mustang",
+        "year": 2023,
+        "color": "Red",
+        "price": 45000
+      },
+      {
+        "id": 4,
+        "make": "Tesla",
+        "model": "Model S",
+        "year": 2023,
+        "color": "White",
+        "price": 95000
+      },
+      {
+        "id": 5,
+        "make": "Chevrolet",
+        "model": "Silverado",
+        "year": 2022,
+        "color": "Black",
+        "price": 35000
+      }
+    ]
+  }
+  
